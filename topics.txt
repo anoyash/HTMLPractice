@@ -22,6 +22,16 @@ understand id
     1. It is Unique attribute , identifier given to a HTML tag 
     2. id can not be repeated 
 
+    Note : Technically I can use the same id for mulitple tags, but it is not a standard convention
+
+    properties of id attribute :
+
+    The ID name must be case sensitive
+    The ID name must contain at least one character
+    The ID name cannot start with a number
+    The ID name must not contain whitespaces (spaces, tabs, etc.)
+    The ID attribute's value must not contain ASCII whitespace characters
+
 understand class
     1. Class is attribute used to identfy the mulitple tags or single tag
-    2. same class value can be given to multiple HTML tags.
+    2. Same class value can be given to multiple HTML tags.

@@ -7,6 +7,21 @@ understand p
 understand br 
 understand img
 understand a 
-understand div
+
+-- ** -- Important Topics -- ** -- 
+
+understand div 
+
+    1. div is a tag which is having only width , but no height
+    2. It takes the height of its children
+    3. Heigh of div is the sum of the heights of its children
+
+/* id and class are used for identification and styling of HTML tags */
+
 understand id
+    1. It is Unique attribute , identifier given to a HTML tag 
+    2. id can not be repeated 
+
 understand class
+    1. Class is attribute used to identfy the mulitple tags or single tag
+    2. same class value can be given to multiple HTML tags.
